@@ -25,7 +25,7 @@ struct PRSwiftUIApp: App {
 
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            PessoaView()
         }
         .modelContainer(sharedModelContainer)
     }
