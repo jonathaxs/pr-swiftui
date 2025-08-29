@@ -1,14 +1,16 @@
-# macOS
+# Arquivos invisíveis no Finder
 .DS_Store
 
-# Xcode
+# Pastas de build geradas pelo Xcode
 build/
 DerivedData/
+
+# Configurações locais de usuário do Xcode
 *.xcworkspace/xcuserdata/
 *.xcuserstate
 
-# SwiftPM
+# Arquivos gerados por Swift Package Manager
 .build/
 
-# CocoaPods
+# Dependências do CocoaPods
 Pods/
