@@ -7,62 +7,62 @@
 	objects = {
 
 /* Begin PBXContainerItemProxy section */
-		698745532E622D6700D2A3BA /* PBXContainerItemProxy */ = {
+		69E830CB2E6275AB0082C196 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 6987453A2E622D6600D2A3BA /* Project object */;
+			containerPortal = 69E830B22E6275AA0082C196 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 698745412E622D6600D2A3BA;
-			remoteInfo = PRSwiftUI;
+			remoteGlobalIDString = 69E830B92E6275AA0082C196;
+			remoteInfo = PraSwiftUI;
 		};
-		6987455D2E622D6700D2A3BA /* PBXContainerItemProxy */ = {
+		69E830D52E6275AB0082C196 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 6987453A2E622D6600D2A3BA /* Project object */;
+			containerPortal = 69E830B22E6275AA0082C196 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 698745412E622D6600D2A3BA;
-			remoteInfo = PRSwiftUI;
+			remoteGlobalIDString = 69E830B92E6275AA0082C196;
+			remoteInfo = PraSwiftUI;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		698745422E622D6600D2A3BA /* PRSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PRSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		698745522E622D6700D2A3BA /* PRSwiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PRSwiftUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		6987455C2E622D6700D2A3BA /* PRSwiftUIUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PRSwiftUIUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		69E830BA2E6275AA0082C196 /* PraSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PraSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		69E830CA2E6275AB0082C196 /* PraSwiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PraSwiftUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		69E830D42E6275AB0082C196 /* PraSwiftUIUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PraSwiftUIUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		698745442E622D6600D2A3BA /* PRSwiftUI */ = {
+		69E830BC2E6275AA0082C196 /* PraSwiftUI */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = PRSwiftUI;
+			path = PraSwiftUI;
 			sourceTree = "<group>";
 		};
-		698745552E622D6700D2A3BA /* PRSwiftUITests */ = {
+		69E830CD2E6275AB0082C196 /* PraSwiftUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = PRSwiftUITests;
+			path = PraSwiftUITests;
 			sourceTree = "<group>";
 		};
-		6987455F2E622D6700D2A3BA /* PRSwiftUIUITests */ = {
+		69E830D72E6275AB0082C196 /* PraSwiftUIUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = PRSwiftUIUITests;
+			path = PraSwiftUIUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		6987453F2E622D6600D2A3BA /* Frameworks */ = {
+		69E830B72E6275AA0082C196 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		6987454F2E622D6700D2A3BA /* Frameworks */ = {
+		69E830C72E6275AB0082C196 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		698745592E622D6700D2A3BA /* Frameworks */ = {
+		69E830D12E6275AB0082C196 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -72,22 +72,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		698745392E622D6600D2A3BA = {
+		69E830B12E6275AA0082C196 = {
 			isa = PBXGroup;
 			children = (
-				698745442E622D6600D2A3BA /* PRSwiftUI */,
-				698745552E622D6700D2A3BA /* PRSwiftUITests */,
-				6987455F2E622D6700D2A3BA /* PRSwiftUIUITests */,
-				698745432E622D6600D2A3BA /* Products */,
+				69E830BC2E6275AA0082C196 /* PraSwiftUI */,
+				69E830CD2E6275AB0082C196 /* PraSwiftUITests */,
+				69E830D72E6275AB0082C196 /* PraSwiftUIUITests */,
+				69E830BB2E6275AA0082C196 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		698745432E622D6600D2A3BA /* Products */ = {
+		69E830BB2E6275AA0082C196 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				698745422E622D6600D2A3BA /* PRSwiftUI.app */,
-				698745522E622D6700D2A3BA /* PRSwiftUITests.xctest */,
-				6987455C2E622D6700D2A3BA /* PRSwiftUIUITests.xctest */,
+				69E830BA2E6275AA0082C196 /* PraSwiftUI.app */,
+				69E830CA2E6275AB0082C196 /* PraSwiftUITests.xctest */,
+				69E830D42E6275AB0082C196 /* PraSwiftUIUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,134 +95,134 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		698745412E622D6600D2A3BA /* PRSwiftUI */ = {
+		69E830B92E6275AA0082C196 /* PraSwiftUI */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 698745662E622D6700D2A3BA /* Build configuration list for PBXNativeTarget "PRSwiftUI" */;
+			buildConfigurationList = 69E830DE2E6275AB0082C196 /* Build configuration list for PBXNativeTarget "PraSwiftUI" */;
 			buildPhases = (
-				6987453E2E622D6600D2A3BA /* Sources */,
-				6987453F2E622D6600D2A3BA /* Frameworks */,
-				698745402E622D6600D2A3BA /* Resources */,
+				69E830B62E6275AA0082C196 /* Sources */,
+				69E830B72E6275AA0082C196 /* Frameworks */,
+				69E830B82E6275AA0082C196 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				698745442E622D6600D2A3BA /* PRSwiftUI */,
+				69E830BC2E6275AA0082C196 /* PraSwiftUI */,
 			);
-			name = PRSwiftUI;
+			name = PraSwiftUI;
 			packageProductDependencies = (
 			);
-			productName = PRSwiftUI;
-			productReference = 698745422E622D6600D2A3BA /* PRSwiftUI.app */;
+			productName = PraSwiftUI;
+			productReference = 69E830BA2E6275AA0082C196 /* PraSwiftUI.app */;
 			productType = "com.apple.product-type.application";
 		};
-		698745512E622D6700D2A3BA /* PRSwiftUITests */ = {
+		69E830C92E6275AB0082C196 /* PraSwiftUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 698745692E622D6700D2A3BA /* Build configuration list for PBXNativeTarget "PRSwiftUITests" */;
+			buildConfigurationList = 69E830E12E6275AB0082C196 /* Build configuration list for PBXNativeTarget "PraSwiftUITests" */;
 			buildPhases = (
-				6987454E2E622D6700D2A3BA /* Sources */,
-				6987454F2E622D6700D2A3BA /* Frameworks */,
-				698745502E622D6700D2A3BA /* Resources */,
+				69E830C62E6275AB0082C196 /* Sources */,
+				69E830C72E6275AB0082C196 /* Frameworks */,
+				69E830C82E6275AB0082C196 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				698745542E622D6700D2A3BA /* PBXTargetDependency */,
+				69E830CC2E6275AB0082C196 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				698745552E622D6700D2A3BA /* PRSwiftUITests */,
+				69E830CD2E6275AB0082C196 /* PraSwiftUITests */,
 			);
-			name = PRSwiftUITests;
+			name = PraSwiftUITests;
 			packageProductDependencies = (
 			);
-			productName = PRSwiftUITests;
-			productReference = 698745522E622D6700D2A3BA /* PRSwiftUITests.xctest */;
+			productName = PraSwiftUITests;
+			productReference = 69E830CA2E6275AB0082C196 /* PraSwiftUITests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		6987455B2E622D6700D2A3BA /* PRSwiftUIUITests */ = {
+		69E830D32E6275AB0082C196 /* PraSwiftUIUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6987456C2E622D6700D2A3BA /* Build configuration list for PBXNativeTarget "PRSwiftUIUITests" */;
+			buildConfigurationList = 69E830E42E6275AB0082C196 /* Build configuration list for PBXNativeTarget "PraSwiftUIUITests" */;
 			buildPhases = (
-				698745582E622D6700D2A3BA /* Sources */,
-				698745592E622D6700D2A3BA /* Frameworks */,
-				6987455A2E622D6700D2A3BA /* Resources */,
+				69E830D02E6275AB0082C196 /* Sources */,
+				69E830D12E6275AB0082C196 /* Frameworks */,
+				69E830D22E6275AB0082C196 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				6987455E2E622D6700D2A3BA /* PBXTargetDependency */,
+				69E830D62E6275AB0082C196 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				6987455F2E622D6700D2A3BA /* PRSwiftUIUITests */,
+				69E830D72E6275AB0082C196 /* PraSwiftUIUITests */,
 			);
-			name = PRSwiftUIUITests;
+			name = PraSwiftUIUITests;
 			packageProductDependencies = (
 			);
-			productName = PRSwiftUIUITests;
-			productReference = 6987455C2E622D6700D2A3BA /* PRSwiftUIUITests.xctest */;
+			productName = PraSwiftUIUITests;
+			productReference = 69E830D42E6275AB0082C196 /* PraSwiftUIUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		6987453A2E622D6600D2A3BA /* Project object */ = {
+		69E830B22E6275AA0082C196 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1640;
 				LastUpgradeCheck = 1640;
 				TargetAttributes = {
-					698745412E622D6600D2A3BA = {
+					69E830B92E6275AA0082C196 = {
 						CreatedOnToolsVersion = 16.4;
 					};
-					698745512E622D6700D2A3BA = {
+					69E830C92E6275AB0082C196 = {
 						CreatedOnToolsVersion = 16.4;
-						TestTargetID = 698745412E622D6600D2A3BA;
+						TestTargetID = 69E830B92E6275AA0082C196;
 					};
-					6987455B2E622D6700D2A3BA = {
+					69E830D32E6275AB0082C196 = {
 						CreatedOnToolsVersion = 16.4;
-						TestTargetID = 698745412E622D6600D2A3BA;
+						TestTargetID = 69E830B92E6275AA0082C196;
 					};
 				};
 			};
-			buildConfigurationList = 6987453D2E622D6600D2A3BA /* Build configuration list for PBXProject "PRSwiftUI" */;
+			buildConfigurationList = 69E830B52E6275AA0082C196 /* Build configuration list for PBXProject "PraSwiftUI" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 698745392E622D6600D2A3BA;
+			mainGroup = 69E830B12E6275AA0082C196;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 698745432E622D6600D2A3BA /* Products */;
+			productRefGroup = 69E830BB2E6275AA0082C196 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				698745412E622D6600D2A3BA /* PRSwiftUI */,
-				698745512E622D6700D2A3BA /* PRSwiftUITests */,
-				6987455B2E622D6700D2A3BA /* PRSwiftUIUITests */,
+				69E830B92E6275AA0082C196 /* PraSwiftUI */,
+				69E830C92E6275AB0082C196 /* PraSwiftUITests */,
+				69E830D32E6275AB0082C196 /* PraSwiftUIUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		698745402E622D6600D2A3BA /* Resources */ = {
+		69E830B82E6275AA0082C196 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		698745502E622D6700D2A3BA /* Resources */ = {
+		69E830C82E6275AB0082C196 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		6987455A2E622D6700D2A3BA /* Resources */ = {
+		69E830D22E6275AB0082C196 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -232,21 +232,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		6987453E2E622D6600D2A3BA /* Sources */ = {
+		69E830B62E6275AA0082C196 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		6987454E2E622D6700D2A3BA /* Sources */ = {
+		69E830C62E6275AB0082C196 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		698745582E622D6700D2A3BA /* Sources */ = {
+		69E830D02E6275AB0082C196 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -256,20 +256,20 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		698745542E622D6700D2A3BA /* PBXTargetDependency */ = {
+		69E830CC2E6275AB0082C196 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 698745412E622D6600D2A3BA /* PRSwiftUI */;
-			targetProxy = 698745532E622D6700D2A3BA /* PBXContainerItemProxy */;
+			target = 69E830B92E6275AA0082C196 /* PraSwiftUI */;
+			targetProxy = 69E830CB2E6275AB0082C196 /* PBXContainerItemProxy */;
 		};
-		6987455E2E622D6700D2A3BA /* PBXTargetDependency */ = {
+		69E830D62E6275AB0082C196 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 698745412E622D6600D2A3BA /* PRSwiftUI */;
-			targetProxy = 6987455D2E622D6700D2A3BA /* PBXContainerItemProxy */;
+			target = 69E830B92E6275AA0082C196 /* PraSwiftUI */;
+			targetProxy = 69E830D52E6275AB0082C196 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		698745642E622D6700D2A3BA /* Debug */ = {
+		69E830DC2E6275AB0082C196 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -331,7 +331,7 @@
 			};
 			name = Debug;
 		};
-		698745652E622D6700D2A3BA /* Release */ = {
+		69E830DD2E6275AB0082C196 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -385,12 +385,12 @@
 			};
 			name = Release;
 		};
-		698745672E622D6700D2A3BA /* Debug */ = {
+		69E830DF2E6275AB0082C196 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = PRSwiftUI/PRSwiftUI.entitlements;
+				CODE_SIGN_ENTITLEMENTS = PraSwiftUI/PraSwiftUI.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = W8T84CC8DH;
@@ -412,7 +412,7 @@
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 14.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.jonathasmrt.PRSwiftUI;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jonathasmrt.PraSwiftUI;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
 				SDKROOT = auto;
@@ -424,12 +424,12 @@
 			};
 			name = Debug;
 		};
-		698745682E622D6700D2A3BA /* Release */ = {
+		69E830E02E6275AB0082C196 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = PRSwiftUI/PRSwiftUI.entitlements;
+				CODE_SIGN_ENTITLEMENTS = PraSwiftUI/PraSwiftUI.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = W8T84CC8DH;
@@ -451,7 +451,7 @@
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 14.0;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.jonathasmrt.PRSwiftUI;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jonathasmrt.PraSwiftUI;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
 				SDKROOT = auto;
@@ -463,7 +463,7 @@
 			};
 			name = Release;
 		};
-		6987456A2E622D6700D2A3BA /* Debug */ = {
+		69E830E22E6275AB0082C196 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -474,19 +474,19 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
 				MACOSX_DEPLOYMENT_TARGET = 15.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.jonathasmrt.PRSwiftUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jonathasmrt.PraSwiftUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/PRSwiftUI.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/PRSwiftUI";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/PraSwiftUI.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/PraSwiftUI";
 				XROS_DEPLOYMENT_TARGET = 2.5;
 			};
 			name = Debug;
 		};
-		6987456B2E622D6700D2A3BA /* Release */ = {
+		69E830E32E6275AB0082C196 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -497,19 +497,19 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
 				MACOSX_DEPLOYMENT_TARGET = 15.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.jonathasmrt.PRSwiftUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jonathasmrt.PraSwiftUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/PRSwiftUI.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/PRSwiftUI";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/PraSwiftUI.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/PraSwiftUI";
 				XROS_DEPLOYMENT_TARGET = 2.5;
 			};
 			name = Release;
 		};
-		6987456D2E622D6700D2A3BA /* Debug */ = {
+		69E830E52E6275AB0082C196 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -519,19 +519,19 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
 				MACOSX_DEPLOYMENT_TARGET = 15.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.jonathasmrt.PRSwiftUIUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jonathasmrt.PraSwiftUIUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_TARGET_NAME = PRSwiftUI;
+				TEST_TARGET_NAME = PraSwiftUI;
 				XROS_DEPLOYMENT_TARGET = 2.5;
 			};
 			name = Debug;
 		};
-		6987456E2E622D6700D2A3BA /* Release */ = {
+		69E830E62E6275AB0082C196 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -541,14 +541,14 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
 				MACOSX_DEPLOYMENT_TARGET = 15.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.jonathasmrt.PRSwiftUIUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jonathasmrt.PraSwiftUIUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_TARGET_NAME = PRSwiftUI;
+				TEST_TARGET_NAME = PraSwiftUI;
 				XROS_DEPLOYMENT_TARGET = 2.5;
 			};
 			name = Release;
@@ -556,43 +556,43 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		6987453D2E622D6600D2A3BA /* Build configuration list for PBXProject "PRSwiftUI" */ = {
+		69E830B52E6275AA0082C196 /* Build configuration list for PBXProject "PraSwiftUI" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				698745642E622D6700D2A3BA /* Debug */,
-				698745652E622D6700D2A3BA /* Release */,
+				69E830DC2E6275AB0082C196 /* Debug */,
+				69E830DD2E6275AB0082C196 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		698745662E622D6700D2A3BA /* Build configuration list for PBXNativeTarget "PRSwiftUI" */ = {
+		69E830DE2E6275AB0082C196 /* Build configuration list for PBXNativeTarget "PraSwiftUI" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				698745672E622D6700D2A3BA /* Debug */,
-				698745682E622D6700D2A3BA /* Release */,
+				69E830DF2E6275AB0082C196 /* Debug */,
+				69E830E02E6275AB0082C196 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		698745692E622D6700D2A3BA /* Build configuration list for PBXNativeTarget "PRSwiftUITests" */ = {
+		69E830E12E6275AB0082C196 /* Build configuration list for PBXNativeTarget "PraSwiftUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				6987456A2E622D6700D2A3BA /* Debug */,
-				6987456B2E622D6700D2A3BA /* Release */,
+				69E830E22E6275AB0082C196 /* Debug */,
+				69E830E32E6275AB0082C196 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6987456C2E622D6700D2A3BA /* Build configuration list for PBXNativeTarget "PRSwiftUIUITests" */ = {
+		69E830E42E6275AB0082C196 /* Build configuration list for PBXNativeTarget "PraSwiftUIUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				6987456D2E622D6700D2A3BA /* Debug */,
-				6987456E2E622D6700D2A3BA /* Release */,
+				69E830E52E6275AB0082C196 /* Debug */,
+				69E830E62E6275AB0082C196 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 6987453A2E622D6600D2A3BA /* Project object */;
+	rootObject = 69E830B22E6275AA0082C196 /* Project object */;
 }

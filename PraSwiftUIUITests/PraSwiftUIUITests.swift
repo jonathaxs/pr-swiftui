@@ -1,13 +1,13 @@
 //
-//  PRSwiftUIUITests.swift
-//  PRSwiftUIUITests
+//  PraSwiftUIUITests.swift
+//  PraSwiftUIUITests
 //
 //  Created by Jonathas Motta on 29/08/25.
 //
 
 import XCTest
 
-final class PRSwiftUIUITests: XCTestCase {
+final class PraSwiftUIUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

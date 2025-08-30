@@ -1,6 +1,6 @@
 //
-//  PRSwiftUIApp.swift
-//  PRSwiftUI
+//  PraSwiftUIApp.swift
+//  PraSwiftUI
 //
 //  Created by Jonathas Motta on 29/08/25.
 //
@@ -9,7 +9,7 @@ import SwiftUI
 import SwiftData
 
 @main
-struct PRSwiftUIApp: App {
+struct PraSwiftUIApp: App {
     var sharedModelContainer: ModelContainer = {
         let schema = Schema([
             Item.self,

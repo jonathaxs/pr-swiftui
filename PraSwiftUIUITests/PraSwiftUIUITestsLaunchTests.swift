@@ -1,13 +1,13 @@
 //
-//  PRSwiftUIUITestsLaunchTests.swift
-//  PRSwiftUIUITests
+//  PraSwiftUIUITestsLaunchTests.swift
+//  PraSwiftUIUITests
 //
 //  Created by Jonathas Motta on 29/08/25.
 //
 
 import XCTest
 
-final class PRSwiftUIUITestsLaunchTests: XCTestCase {
+final class PraSwiftUIUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
