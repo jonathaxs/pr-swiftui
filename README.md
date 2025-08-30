@@ -1,4 +1,4 @@
-# 🧪 pr-swiftui
+# 🧪 pra-swiftui
 
 Repositório pessoal de experimentos práticos com **Swift** e **SwiftUI**.
 
